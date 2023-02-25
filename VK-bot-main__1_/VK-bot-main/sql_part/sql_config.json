@@ -1,0 +1,7 @@
+{
+    "db_host": "localhost",
+    "db_port": 5432,
+    "user": "postgres",
+    "password": "1234",
+    "db_name": "bot_database"
+}
